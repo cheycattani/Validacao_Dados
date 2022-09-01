@@ -1,4 +1,3 @@
-# Abra o programa que calcula a média e imprime a situação do aluno, feito no exercício sobre condicionais.
 # Aplique a validação de dados para que:
 # O programa nunca seja interrompido por erro. A nota seja entre 0 e 10 e O número de faltas seja entre 0 e 20.
 
